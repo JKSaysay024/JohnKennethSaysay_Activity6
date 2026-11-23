@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: John Kenneth R. Saysay
+Handle: Cyvion024
+Start Time: 2026-11-23 17:45:52.815018
+End Time: 2026-11-23 17:49:08.050134
+Duration (minutes): 3.25
+Score: 6/10
+Rating: INTERMEDIATE
+---- Threat Logs ----
+Threat: RDP Brute Force Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: SMB Ransomware Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: Telnet Credential Theft
+ALERT: Failed login attempt detected from 192.168.1.83 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: FTP Credential Sniffing
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SSH Brute Force Attack
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: Proxy Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: SMTP Phishing Campaign
+WARNING: Multiple authentication failures for service
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: POP3 Credential Sniffing
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: MySQL Data Theft
+ALERT: Failed login attempt detected from 192.168.1.102 on port
+WARNING: Multiple authentication failures for service
+-------------------
+===================================
